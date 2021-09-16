@@ -39,9 +39,13 @@
     "@angular/platform-browser": "12.2.5",
     "@angular/platform-browser-dynamic": "12.2.5",
     "@angular/router": "12.2.5",
+    "@nativescript-community/ui-material-bottomnavigationbar": "^5.3.21",
     "@nativescript/core": "~8.1.0",
     "@nativescript/theme": "~3.0.0",
+    "autoprefixer": "^10.3.4",
     "nativescript-ngx-fonticon": "~7.0.0",
+    "postcss": "^8.3.6",
+    "postcss-loader": "^6.1.1",
     "rxjs": "^7.3.0",
     "zone.js": "0.11.4"
   },

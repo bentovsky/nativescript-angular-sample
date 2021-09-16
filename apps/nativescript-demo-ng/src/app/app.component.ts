@@ -2,7 +2,7 @@ import { Component, ViewContainerRef } from '@angular/core';
 
 // registerElement('ns-app', () => GridLayout);
 @Component({
-  selector: 'ns-app',
+  selector: 'nativescript-app',
   moduleId: module.id,
   templateUrl: './app.component.html',
 })

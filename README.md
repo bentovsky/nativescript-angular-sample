@@ -17,3 +17,6 @@ Run angular demo:
 ```
 nx run nativescript-demo-ng:ios
 ```
+
+# Replicate fragments bug
+On gradle.properties uncomment `androidXFragment=1.3.0`
